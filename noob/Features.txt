@@ -1,0 +1,12 @@
+Variables
+arithmeticas
+functions
+    function calls
+        built-in functions
+            print function
+    function definitions
+if statements
+    else statements
+    else if statements
+while loops
+for loop

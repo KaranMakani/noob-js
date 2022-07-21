@@ -1,0 +1,9 @@
+1. Project Setup
+    npm init
+    install dependencies
+        npm install nearley --save
+        npm install moo --save
+
+2.Build Lexer using moo
+
+3.Make Grammer in Nearley

@@ -1,0 +1,7 @@
+n = 5
+o = 6
+b = "Hello,Noob"
+print(n o)
+print(b)
+print(5)
+print("Jaane Meri Jaane Man")
