@@ -1,0 +1,27 @@
+1.5 Month
+Jeel,Ronak,Meet :- Canvas,Report
+Karan :- Basic of NOOB
+Dhara :- Documentation Of NOOB
+
+After 1.5 Month
+
+
+
+AEIOU FRAMEWORK - JEEL - DONE
+[Activity,Environment,Interaction,Object,User]
+ 
+Empathy Mapping Canvas  -  Ronak / Dhara (WORKING ON IT)
+Ideation Canvas - Ronak / Dhara - DONE
+Product Development Canvas - Meet (WORKING ON IT)
+LEARNING NEED MATRIX - Karan / Jeel (WORKING ON IT)
+ 
+PROTOTYPE - Karan
+Working Model  - Karan 
+Documentation -  Karan
+CHALLENGES - Karan
+CONCLUSION - Karan
+FUTURE WORK - Karan
+
+Final Report - Dhara/Meet
+PPT - Karan
+ 
